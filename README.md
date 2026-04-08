@@ -74,11 +74,11 @@ I structured the analysis in multiple steps to progressively move from operation
 
 ## 💡 Recommendations:
 
-- **Prioritize customer experience improvements: Focus on reducing delivery times to improve satisfaction and increase repeat purchases.
-- **Optimize the medium-value segment: Small increases in average order value within this segment could generate significant revenue growth.
-- **Encourage high-value payment methods: Promote credit card usage through incentives or UX improvements.
-- **Investigate voucher performance: Analyze whether voucher users face friction or represent lower-intent customers.
-- **Focus on retention rather than conversion: Given the already high conversion rate, long-term growth is more likely to come from increasing customer lifetime value.
+- **Prioritize customer experience improvements:** Focus on reducing delivery times to improve satisfaction and increase repeat purchases.
+- **Optimize the medium-value segment:** Small increases in average order value within this segment could generate significant revenue growth.
+- **Encourage high-value payment methods:** Promote credit card usage through incentives or UX improvements.
+- **Investigate voucher performance:** Analyze whether voucher users face friction or represent lower-intent customers.
+- **Focus on retention rather than conversion:** Given the already high conversion rate, long-term growth is more likely to come from increasing customer lifetime value.
 
 ## 🚀 Next Steps:
 
