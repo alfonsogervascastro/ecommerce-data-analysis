@@ -68,6 +68,10 @@ I structured the analysis in multiple steps to progressively move from operation
 - The average delivery time is approximately 12 days, which is relatively high and may negatively affect customer satisfaction and retention.
 - The medium-value segment represents the largest share of orders, making it the most impactful segment for revenue optimization.
 
+## 📊 Dashboard
+
+![Dashboard](Dashboard Brazilian e-Commerce.png)
+
 ## 💡 Recommendations:
 
 - **Prioritize customer experience improvements: Focus on reducing delivery times to improve satisfaction and increase repeat purchases.
