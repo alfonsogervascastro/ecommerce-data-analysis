@@ -70,7 +70,7 @@ I structured the analysis in multiple steps to progressively move from operation
 
 ## 📊 Dashboard
 
-![Dashboard](Dashboard Brazilian e-Commerce.png)
+![Dashboard](dashboardecommerce.png)
 
 ## 💡 Recommendations:
 
